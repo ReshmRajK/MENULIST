@@ -1,0 +1,37 @@
+#search-section {
+    background-image: url('https://i.postimg.cc/Tw538MDN/food.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 50px;
+}
+
+.icon {
+    font-size: 25px;
+    color: white;
+    position: relative;
+    left: 1rem;
+    /* top: -10px;
+    background-color: orange;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px; */
+
+
+}
+
+.input_section {
+    border-radius: 100px;
+    border: 2px solid orange;
+}
+
+.title {
+    font-family: 'Nosifer', sans-serif;
+}
+
+h1 {
+    font-family: 'Lobster Two', sans-serif;
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+}
